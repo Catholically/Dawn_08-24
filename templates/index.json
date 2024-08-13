@@ -598,9 +598,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_1000_x_700_px_1000_x_776_px_cd6b0469-ee1e-4767-abc7-7df759b0e62c.png",
             "title": "",
-            "text": "<p>We plant a tree for every order. <strong>The more you buy the more we plant<\/strong>! 🌱 We planted already <strong>19.000<\/strong> 🌳🌴🌲<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>We plant a tree for every order.<strong>The more you buy the more we plant<\/strong>! 🌱 We planted already <strong>19.000<\/strong> 🌳🌴<\/p>",
+            "link_label": "Our Forest",
+            "link": "https:\/\/tree-nation.com\/profile\/impact\/catholically"
           }
         },
         "column_wzHjPV": {
