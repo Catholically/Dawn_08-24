@@ -328,22 +328,22 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection_qYTrtU": {
+    "featured_collection_kF3UAa": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Benedict's Blessings: Pectoral Crucifixes & Medals",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "st-benedict-crucifix",
         "products_to_show": 4,
         "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
+        "full_width": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -353,6 +353,34 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_qYTrtU": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "st-benedict",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "arch",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -395,34 +423,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "featured_collection_kF3UAa": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Benedict's Blessings: Pectoral Crucifixes & Medals",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "st-benedict-crucifix",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-2",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -432,8 +432,8 @@
     "collection_list_QHznnf",
     "featured_product_M7ppLU",
     "featured_collection_XTJJmf",
+    "featured_collection_kF3UAa",
     "featured_collection_qYTrtU",
-    "collection_list_GkAmwh",
-    "featured_collection_kF3UAa"
+    "collection_list_GkAmwh"
   ]
 }
