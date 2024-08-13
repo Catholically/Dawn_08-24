@@ -502,6 +502,15 @@
     "collapsible_content_krXF86": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_DAjCrF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where are you located?",
+            "icon": "check_mark",
+            "row_content": "<p>We are located in Rome,<strong>Italy<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_caNr7g": {
           "type": "collapsible_row",
           "settings": {
@@ -540,6 +549,7 @@
         }
       },
       "block_order": [
+        "collapsible_row_DAjCrF",
         "collapsible_row_caNr7g",
         "collapsible_row_tFHdmA",
         "collapsible_row_7BF4ww",
