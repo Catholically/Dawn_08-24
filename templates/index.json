@@ -561,7 +561,7 @@
           "settings": {
             "heading": "Do you offer payment plans?",
             "icon": "stopwatch",
-            "row_content": "<p>We offer installment payments with <strong>Klarna.<\/strong><br\/>We split your purchase into 4 payments so you can spread the cost of your purchase over time. No interest or added fees when you pay on time.<\/p>",
+            "row_content": "<p>We offer installment payments with <a href=\"https:\/\/catholically.com\/pages\/klarna-buy-now-pay-later\" title=\"Pay with KLARNA\"><strong>Klarna<\/strong><\/a><strong>.<\/strong><br\/>We split your purchase into 4 payments so you can spread the cost of your purchase over time. <\/p>",
             "page": ""
           }
         }
