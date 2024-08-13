@@ -242,7 +242,7 @@
         "title_RM7YXG": {
           "type": "title",
           "settings": {
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "price_GbXTQD": {
@@ -265,7 +265,7 @@
         "buy_buttons_BDhrNV": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
         },
@@ -286,7 +286,7 @@
         "share_eU8KDY"
       ],
       "settings": {
-        "product": "",
+        "product": "blessed-by-pope-francis-holy-water-healing-papa-francesco",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "medium",
