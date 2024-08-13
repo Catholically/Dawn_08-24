@@ -49,34 +49,6 @@
         "show_text_below": false
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
     "featured_product_c88tVJ": {
       "type": "featured-product",
       "blocks": {
@@ -387,6 +359,24 @@
     "collection_list_GkAmwh": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_hXzy3h": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "st-benedict-rosaries"
+          }
+        },
+        "featured_collection_dR4Mxh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "relic-rosaries"
+          }
+        },
+        "featured_collection_EU8VnF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jpii-rosaries"
+          }
+        },
         "featured_collection_gc8z3N": {
           "type": "featured_collection",
           "settings": {
@@ -396,55 +386,37 @@
         "featured_collection_4MxkLK": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cloisonne-rosaries"
           }
         },
         "featured_collection_BMnMdq": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "medjugorje-rosaries"
           }
         },
-        "featured_collection_dR4Mxh": {
+        "featured_collection_iWEYGE": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_faUPwj": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_EU8VnF": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "pope-francis-rosaries"
           }
         },
         "featured_collection_YkPayP": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
-          }
-        },
-        "featured_collection_hXzy3h": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
+            "collection": "wooden-rosaries"
           }
         }
       },
       "block_order": [
+        "featured_collection_hXzy3h",
+        "featured_collection_dR4Mxh",
+        "featured_collection_EU8VnF",
         "featured_collection_gc8z3N",
         "featured_collection_4MxkLK",
         "featured_collection_BMnMdq",
-        "featured_collection_dR4Mxh",
-        "featured_collection_faUPwj",
-        "featured_collection_EU8VnF",
-        "featured_collection_YkPayP",
-        "featured_collection_hXzy3h"
+        "featured_collection_iWEYGE",
+        "featured_collection_YkPayP"
       ],
       "settings": {
         "title": "Our Favorite Rosaries",
@@ -462,7 +434,6 @@
   },
   "order": [
     "image_banner",
-    "featured_collection",
     "featured_product_c88tVJ",
     "collection_list_QHznnf",
     "featured_product_M7ppLU",
