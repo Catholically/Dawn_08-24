@@ -614,10 +614,11 @@
         "column_mV8b4K": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/4_16d33004-3566-44f9-9f2e-bb48d6c9ffdb.png",
+            "title": "",
+            "text": "<p>We Plant trees to offset our CO2 emissions. We aim for <strong>100% climate neutral<\/strong> to live in a better world.<\/p>",
+            "link_label": "Our Forest",
+            "link": "https:\/\/tree-nation.com\/profile\/impact\/catholically"
           }
         }
       },
