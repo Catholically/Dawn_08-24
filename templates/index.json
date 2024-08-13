@@ -538,12 +538,30 @@
             "page": ""
           }
         },
+        "collapsible_row_ChVzq8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I expedite shipping?",
+            "icon": "lightning_bolt",
+            "row_content": "<p>Sure! You can <a href=\"https:\/\/catholically.com\/products\/ups-3-day-shipping\" title=\"https:\/\/catholically.com\/products\/ups-3-day-shipping\">upgrade to UPS<\/a> shipping and your package will be fast and tracked. It will arrive in <strong>3-5 days<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible_row_dGCLGN": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Can I get my items blessed?",
             "icon": "heart",
             "row_content": "<p>Sure! We will bring your items to be blessed by the Holy Father after the sale. Just leave us a note during checkout or <a href=\"https:\/\/catholically.com\/pages\/contact-us\" title=\"https:\/\/catholically.com\/pages\/contact-us\">contact us<\/a> after the sale!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mNJ8je": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
             "page": ""
           }
         }
@@ -553,7 +571,9 @@
         "collapsible_row_caNr7g",
         "collapsible_row_tFHdmA",
         "collapsible_row_7BF4ww",
-        "collapsible_row_dGCLGN"
+        "collapsible_row_ChVzq8",
+        "collapsible_row_dGCLGN",
+        "collapsible_row_mNJ8je"
       ],
       "settings": {
         "caption": "qqq",
