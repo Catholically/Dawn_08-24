@@ -559,9 +559,9 @@
         "collapsible_row_mNJ8je": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Do you offer payment plans?",
+            "icon": "stopwatch",
+            "row_content": "<p>We offer installment payments with <strong>Klarna.<\/strong><br\/>We split your purchase into 4 payments so you can spread the cost of your purchase over time. No interest or added fees when you pay on time.<\/p>",
             "page": ""
           }
         }
