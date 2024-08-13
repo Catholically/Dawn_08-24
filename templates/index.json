@@ -533,8 +533,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How can I track my package?",
-            "icon": "check_mark",
-            "row_content": "",
+            "icon": "map_pin",
+            "row_content": "<p>Unfortunately you <strong>can't track <\/strong>your package as our Italian Priority Air Mail doesn't use barcodes but QR codes. If you want to track your package, <a href=\"https:\/\/catholically.com\/products\/ups-3-day-shipping\" title=\"https:\/\/catholically.com\/products\/ups-3-day-shipping\">upgrade to UPS.<\/a><\/p>",
             "page": ""
           }
         },
