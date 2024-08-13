@@ -541,9 +541,9 @@
         "collapsible_row_dGCLGN": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Can I get my items blessed?",
+            "icon": "heart",
+            "row_content": "<p>Sure! We will bring your items to be blessed by the Holy Father after the sale. Just leave us a note during checkout or <a href=\"https:\/\/catholically.com\/pages\/contact-us\" title=\"https:\/\/catholically.com\/pages\/contact-us\">contact us<\/a> after the sale!<\/p>",
             "page": ""
           }
         }
