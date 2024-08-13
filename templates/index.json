@@ -506,7 +506,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Where are you located?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "<p>We are located in Rome,<strong>Italy<\/strong>.<\/p>",
             "page": ""
           }
@@ -514,25 +514,25 @@
         "collapsible_row_caNr7g": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "When will you ship my items?",
+            "icon": "clipboard",
+            "row_content": "<p>We usually ship next day unless you request for your items to be blessed by the Holy Father. Blessing takes place on Sunday and items are therefore shipped on Monday.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_tFHdmA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "How will my items be shipped?",
+            "icon": "truck",
+            "row_content": "<p>We ship next day via <strong>Priority Air Mail<\/strong>. Your package will be delivered by your local mail provider and can't be tracked along its journey.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_7BF4ww": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How can I track my package?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
