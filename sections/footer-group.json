@@ -77,6 +77,7 @@
         },
         "image_GLfm37": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image_width": 100,
             "alignment": "center"
@@ -84,6 +85,7 @@
         },
         "text_JDJXcq": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "Heading",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
