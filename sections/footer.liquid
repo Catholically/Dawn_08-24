@@ -229,7 +229,10 @@
               {%- endform -%}
             </div>
           {%- endif -%}
-
+          
+<div id="tree-nation-offset-website"></div>
+<script>TreeNationOffsetWebsite({code: '6298dce17e439', lang: 'en', theme: 'dark'}).render('#tree-nation-offset-website');</script>
+          
           {%- if shop.features.follow_on_shop? and section.settings.enable_follow_on_shop -%}
             <div class="footer__follow-on-shop">
               {{ shop | login_button: action: 'follow' }}
