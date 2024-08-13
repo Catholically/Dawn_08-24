@@ -172,24 +172,130 @@
         "featured_collection_cLtXD7": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "crucifixes"
+          }
+        },
+        "featured_collection_EFJN3y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "fimo-rosaries"
+          }
+        },
+        "featured_collection_8m4NFi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tertium-millenium-cross"
+          }
+        },
+        "featured_collection_9PKGpM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cloisonne-rosaries"
+          }
+        },
+        "featured_collection_6R3xYA": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pectoral-crosses"
+          }
+        },
+        "featured_collection_4EaHNC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "saint-patrons-medals"
           }
         }
       },
       "block_order": [
         "featured_collection_wTRqWL",
         "featured_collection_PFGpcc",
-        "featured_collection_cLtXD7"
+        "featured_collection_cLtXD7",
+        "featured_collection_EFJN3y",
+        "featured_collection_8m4NFi",
+        "featured_collection_9PKGpM",
+        "featured_collection_6R3xYA",
+        "featured_collection_4EaHNC"
       ],
       "settings": {
         "title": "Top Collections",
         "heading_size": "h1",
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "columns_desktop": 2,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_M7ppLU": {
+      "type": "featured-product",
+      "blocks": {
+        "text_bzR7nE": {
+          "type": "text",
+          "settings": {
+            "text": "blessed at the vatican",
+            "text_style": "uppercase"
+          }
+        },
+        "title_RM7YXG": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_GbXTQD": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_cT8qaW": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_V3mbaD": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_BDhrNV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_eU8KDY": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_bzR7nE",
+        "title_RM7YXG",
+        "price_GbXTQD",
+        "variant_picker_cT8qaW",
+        "quantity_selector_V3mbaD",
+        "buy_buttons_BDhrNV",
+        "share_eU8KDY"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -199,6 +305,7 @@
     "image_banner",
     "featured_collection",
     "featured_product_c88tVJ",
-    "collection_list_QHznnf"
+    "collection_list_QHznnf",
+    "featured_product_M7ppLU"
   ]
 }
