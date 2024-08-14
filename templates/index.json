@@ -790,15 +790,15 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "image_banner_UhVYwU": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/FOOTER_2.jpg",
+        "image": "shopify:\/\/shop_images\/FOOTER_3.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
