@@ -466,8 +466,8 @@
         "featured_collection_EW88Xx"
       ],
       "settings": {
-        "title": "St. Benedict's Protection",
-        "heading_size": "h2",
+        "title": "St. Benedict's Guardian Medals",
+        "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "scheme-4a1f8e8d-9799-4038-8c19-a00eff55d629",
@@ -481,7 +481,7 @@
     "featured_collection_89qb7M": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW IN! Vintage Holy Cards",
+        "title": "Vintage Holy Cards",
         "heading_size": "h1",
         "description": "<p>Discover a curated collection of vintage holy cards. Each card holds unique historical and religious significance.<\/p>",
         "show_description": false,
