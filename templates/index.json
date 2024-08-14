@@ -540,8 +540,8 @@
         "heading_eN7xJL": {
           "type": "heading",
           "settings": {
-            "heading": "Bring Clean Water",
-            "heading_size": "h1"
+            "heading": "<strong>Bring Clean Water<\/strong>",
+            "heading_size": "h2"
           }
         },
         "text_9AhzHh": {
@@ -749,7 +749,7 @@
         "button_fwhe6k": {
           "type": "button",
           "settings": {
-            "button_label": "Our Forest",
+            "button_label": "🌳 OUR FOREST",
             "button_link": "https:\/\/tree-nation.com\/profile\/impact\/catholically",
             "button_style_secondary": false
           }
