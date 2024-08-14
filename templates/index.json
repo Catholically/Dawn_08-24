@@ -506,6 +506,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_RKRAky": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eN7xJL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bring Clean Water",
+            "heading_size": "h1"
+          }
+        },
+        "text_9AhzHh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Provide safe, life-saving water to those in need. A small gift can make a huge impact. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_4eFdC4": {
+          "type": "button",
+          "settings": {
+            "button_label": "DONATE TODAY",
+            "button_link": "shopify:\/\/products\/donation-give-the-gift-of-water",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eN7xJL",
+        "text_9AhzHh",
+        "button_4eFdC4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cw_Selaects_4x5_8_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_krXF86": {
       "type": "collapsible-content",
       "blocks": {
@@ -636,6 +683,7 @@
         "column_wzHjPV",
         "column_mV8b4K"
       ],
+      "disabled": true,
       "settings": {
         "title": "Committed to environmental sustainability",
         "heading_size": "h2",
@@ -729,6 +777,7 @@
     "collection_list_GkAmwh",
     "collection_list_UWeJjX",
     "featured_collection_89qb7M",
+    "image_with_text_RKRAky",
     "collapsible_content_krXF86",
     "multicolumn_yCkFTB",
     "image_with_text_qxLE4T",
