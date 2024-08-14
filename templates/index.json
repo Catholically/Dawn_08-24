@@ -394,12 +394,6 @@
     "collection_list_GkAmwh": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_hXzy3h": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "st-benedict-rosaries"
-          }
-        },
         "featured_collection_dR4Mxh": {
           "type": "featured_collection",
           "settings": {
@@ -441,17 +435,23 @@
           "settings": {
             "collection": "wooden-rosaries"
           }
+        },
+        "featured_collection_hXzy3h": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "st-benedict-rosaries"
+          }
         }
       },
       "block_order": [
-        "featured_collection_hXzy3h",
         "featured_collection_dR4Mxh",
         "featured_collection_EU8VnF",
         "featured_collection_gc8z3N",
         "featured_collection_4MxkLK",
         "featured_collection_BMnMdq",
         "featured_collection_iWEYGE",
-        "featured_collection_YkPayP"
+        "featured_collection_YkPayP",
+        "featured_collection_hXzy3h"
       ],
       "settings": {
         "title": "Our Favorite Rosaries",
