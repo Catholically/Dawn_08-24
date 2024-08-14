@@ -511,7 +511,7 @@
       "settings": {
         "title": "Vintage Holy Cards",
         "heading_size": "h1",
-        "description": "<p>Discover a curated collection of vintage holy cards. Each card holds unique historical and religious significance.<\/p>",
+        "description": "<p>Each card holds unique historical and religious significance<\/p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "vintage-holy-card",
