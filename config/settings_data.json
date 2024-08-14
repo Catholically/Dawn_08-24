@@ -168,6 +168,36 @@
           "checkoutBtns": "[name='checkout'], [name='checkout'] *",
           "customCSS": ""
         }
+      },
+      "17550530943902319648": {
+        "type": "shopify:\/\/apps\/appikon-back-in-stock\/blocks\/subscribe_it_helper\/eb949c69-b3e6-4216-a322-1cd63915d46d",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11724500921838622758": {
+        "type": "shopify:\/\/apps\/frequently-bought\/blocks\/app-embed-block\/b1a8cbea-c844-4842-9529-7c62dbab1b1f",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "11286895472990583310": {
+        "type": "shopify:\/\/apps\/sitemapper\/blocks\/sitemap\/f8fe1657-b243-4261-8f0f-cb2fd9da6ce0",
+        "disabled": false,
+        "settings": {
+          "googleCode": "",
+          "bingCode": "",
+          "baiduCode": "",
+          "yandexCode": "",
+          "noIndexBlogTag": false,
+          "noIndexProductTag": false
+        }
+      },
+      "3720565183479497137": {
+        "type": "shopify:\/\/apps\/globo-product-option\/blocks\/app-embed-block\/fdc9fad5-1a0f-4bd4-9c8a-1af6a6eef6b8",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
